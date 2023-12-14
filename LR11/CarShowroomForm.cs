@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Newtonsoft.Json;
 
 namespace LR11
 {
@@ -161,13 +162,19 @@ namespace LR11
 
         public Car[] GetFromFile()
         {
-            StreamReader sr = new StreamReader("data.txt");
+            string json = File.ReadAllText("data.json");
+            var data = JsonConvert.DeserializeObject<Car[]>(json);
+
+            List<Car> cars = JsonConvert.DeserializeObject<>(json);
+
+            StreamReader sr = new StreamReader("data.json");
             Car[] carList = new Car[0]; 
 
             while (!sr.EndOfStream)
             {
                 string line = sr.ReadLine();
             }
+
 
 
 

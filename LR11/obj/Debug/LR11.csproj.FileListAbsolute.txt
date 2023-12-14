@@ -1,0 +1,13 @@
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.csproj.AssemblyReference.cache
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.CarShowroomForm.resources
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.Properties.Resources.resources
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.csproj.GenerateResource.cache
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.csproj.CoreCompileInputs.cache
+E:\Projects\C#\LR11\LR11\bin\Debug\LR11.exe.config
+E:\Projects\C#\LR11\LR11\bin\Debug\LR11.exe
+E:\Projects\C#\LR11\LR11\bin\Debug\LR11.pdb
+E:\Projects\C#\LR11\LR11\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\C#\LR11\LR11\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.csproj.CopyComplete
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.exe
+E:\Projects\C#\LR11\LR11\obj\Debug\LR11.pdb

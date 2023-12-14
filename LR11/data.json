@@ -1,0 +1,40 @@
+[
+  {
+    "engineNum": "S63",
+    "brand": "BMW",
+    "model": "M5 VI (F90)",
+    "color": "Синий",
+    "bodyType": "Седан",
+    "engineDisplacement": 4.4,
+    "releaseYear": 2017,
+    "price": 12000000,
+    "HP": 600,
+    "engineType": "Бензин"
+  },
+
+  {
+    "engineNum": "M156",
+    "brand": "Mercedes-Benz",
+    "model": "C63 AMG (W204)",
+    "color": "Белый",
+    "bodyType": "Купе",
+    "engineDisplacement": 6.2,
+    "releaseYear": 2007,
+    "price": 2750000,
+    "HP": 457,
+    "engineType": "Бензин"
+  },
+
+  {
+    "engineNum": "1VD-FTV",
+    "brand": "Toyota",
+    "model": "Land Cruiser 200 Series",
+    "color": "Черный",
+    "bodyType": "Внедорожник",
+    "engineDisplacement": 4.5,
+    "releaseYear": 2015,
+    "price": 7500000,
+    "HP": 249,
+    "engineType": "Дизель"
+  }
+]
